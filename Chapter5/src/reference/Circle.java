@@ -8,6 +8,4 @@ public class Circle {
 	public Circle() {
 		point = new Point();
 	}
-
-	
 }
