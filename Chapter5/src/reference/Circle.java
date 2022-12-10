@@ -9,4 +9,5 @@ public class Circle {
 		point = new Point();
 	}
 
+	
 }
